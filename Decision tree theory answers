@@ -1,0 +1,77 @@
+# ============================================================
+
+# Q1. What is a Decision Tree?
+
+# ============================================================
+
+# A Decision Tree is a supervised machine learning algorithm
+
+# used for classification and regression problems.
+
+# Root Node:
+
+# Starting point of the tree.
+
+# Internal Nodes:
+
+# Decision points based on conditions.
+
+# Leaf Nodes:
+
+# Final prediction/output.
+
+# Real-life Example:
+
+# Loan approval prediction.
+
+# ============================================================
+
+# Q2. Gini vs Entropy
+
+# ============================================================
+
+# Gini:
+
+# Faster impurity measure.
+
+# Entropy:
+
+# Uses logarithmic calculations.
+
+# Scikit-learn default:
+
+# Gini because it is computationally faster.
+
+# ============================================================
+
+# Q3. Overfitting
+
+# ============================================================
+
+# Overfitting occurs when the model performs well
+
+# on training data but poorly on testing data.
+
+# ============================================================
+
+# Q4. Pruning
+
+# ============================================================
+
+# Pre-pruning:
+
+# Stops tree growth early.
+
+# Post-pruning:
+
+# Removes unnecessary branches later.
+
+# ============================================================
+
+# Q5. Feature Importance
+
+# ============================================================
+
+# Feature importance shows which variables
+
+# influence predictions the most
